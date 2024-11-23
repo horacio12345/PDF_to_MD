@@ -1,0 +1,5 @@
+# Tested and working on Python 3.12 and below (as of November 2024)
+
+streamlit==1.29.0
+docling==1.17.0
+watchdog==2.3.1
