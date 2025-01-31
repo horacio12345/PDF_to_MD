@@ -1,4 +1,4 @@
-# PDF to Markdown Converter
+# PDF to Markdown using Docling 
 
 A simple web application built with Streamlit that converts PDF documents to Markdown format using the docling library.
 
