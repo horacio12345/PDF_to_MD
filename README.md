@@ -1,6 +1,6 @@
 # PDF to Markdown using Docling 
 
-A simple web application built with Streamlit that converts PDF documents to Markdown format using the docling library.
+A simple web application that converts PDF documents to Markdown format using the docling library.
 
 **Note** : The application interface is currently in Spanish. To change the language, simply modify the text strings in the Streamlit UI code (app.py).
 
